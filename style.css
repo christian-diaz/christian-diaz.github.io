@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    background-color: aqua;
+}
+
+.animated_letter:hover {
+    display: inline-block;
+
+    animation: bounce;
+    animation-duration: 2s;
+}
